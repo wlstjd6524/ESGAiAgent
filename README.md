@@ -98,6 +98,10 @@
 
 </table>
 
+## 📺 Presentation
+[발표자료](https://github.com/user-attachments/files/26978271/LLM.Project.1.pptx)
+
+
 ## 📂 ReadME Index 
 [📄 Executive Summary (프로젝트 개요)](#executive-summary) <br>
 
