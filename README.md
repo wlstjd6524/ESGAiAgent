@@ -103,15 +103,15 @@
 
 [🏗️ System Architecture (시스템 설계 및 구조)](#system-architecture) <br>
 
-[📱 Demo & UI (서비스 구현 화면)](#demo--ui) <br>
+[📱 Demo & UI (서비스 구현 화면)](#demo-ui) <br>
 
-[🛠️ Core Pipelines & Implementation (핵심 구현 파이프라인)](#core-pipelines--implementation) <br>
+[🛠️ Core Pipelines & Implementation (핵심 구현 파이프라인)](#core-pipelines-implementation) <br>
 
-[🚀 Troubleshooting & Optimization (문제 해결 및 최적화)](#troubleshooting--optimization) <br>
+[🚀 Troubleshooting & Optimization (문제 해결 및 최적화)](#troubleshooting-optimization) <br>
 
-[👥 Team Leadership & Management (팀 리더십 및 협업)](#team-leadership--management) <br>
+[👥 Team Leadership & Management (팀 리더십 및 협업)](#team-leadership-management) <br>
 
-[📈 Retrospective & Future Work (회고 및 향후계획)](#retrospective--future-work)
+[📈 Retrospective & Future Work (회고 및 향후계획)](#retrospective-future-work)
 
 
 <a id="executive-summary"></a>
