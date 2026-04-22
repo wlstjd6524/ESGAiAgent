@@ -16,7 +16,7 @@
   <!-- 팀원 이미지 Table-->
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/a9befe05-0cb9-4e0c-ba1f-43b4275ce55e" width="130">    <!--이진성-->
+      <img src="https://github.com/user-attachments/assets/a9befe05-0cb9-4e0c-ba1f-43b4275ce55e" width="140">    <!--이진성-->
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/35c220cf-9b00-4e9a-a3e9-0e2e3e2318b7" width="120">    <!--고아연-->
