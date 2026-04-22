@@ -114,6 +114,8 @@
 [📈 Retrospective & Future Work (회고 및 향후계획)](#retrospective--future-work)
 
 
+<a id="executive-summary"></a>
+
 ## 📄 Executive Summary
 ### 📌 Background
   - 글로벌 규제 강화 : 최근 글로벌 ESG 공시 의무화로 인해 기업 실무진이 대응해야 할 가이드라인이 방대해지고 있습니다.
@@ -136,6 +138,7 @@
 | **Tools & API** | Tavily API (Web Search), OpenDartReader |
 | **Monitoring & UI** | LangSmith (Tracing), Gradio (Prototype UI) |
 
+<a id="system-architecture"></a>
 
 ## 🏗️ System Architecture
 <img width="8192" height="5488" alt="Image" src="https://github.com/user-attachments/assets/17734813-7f81-4873-9ebe-5a90cf9b9e32" /> <br>
