@@ -111,7 +111,7 @@
 
 [👥 Team Leadership & Management (팀 리더십 및 협업)](#team-leadership) <br>
 
-[📈 Retrospective & Future Work (회고 및 향후계획)](#retrospective)
+[📈 Retrospective & Future Work (회고 및 향후계획)](#retrospective )
 
 
 <a id="executive-summary"></a>
