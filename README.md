@@ -25,7 +25,7 @@
       <img src="https://github.com/user-attachments/assets/89342c37-c1f9-4fcf-9ef9-a9fc032a807f" width="105">    <!--김재현-->
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/21d5ac6e-c2c9-47a8-867a-7cb362f05973" width="120">    <!--박성재-->
+      <img src="https://github.com/user-attachments/assets/21d5ac6e-c2c9-47a8-867a-7cb362f05973" width="110">    <!--박성재-->
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/e10fba61-2421-4bca-b470-506f854fa909" width="110">    <!--배준서-->
