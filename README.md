@@ -105,6 +105,8 @@
 ## 📂 ReadME Index 
 [📄 Executive Summary (프로젝트 개요)](#executive-summary) <br>
 
+[⏱️ Project Duration & 🔧 Tech Stack (기간 및 기술스택)](#projectduration-techstack) <br>
+
 [🏗️ System Architecture (시스템 설계 및 구조)](#system-architecture) <br>
 
 [📱 Demo & UI (서비스 구현 화면)](#demo-ui) <br>
@@ -132,15 +134,26 @@
   - 확장성 및 운영 안정성 확보 : 각 Custom Tool 의 독립성을 보장하여 단일 모듈 장애가 전체 시스템으로 전파되는 것을 방지하고, 실시간 로그 추적 미들웨어 및 'LLM Judge' 를 도입하여 지속적인 성능 모니터링과 유지보수가 가능한 파이프라인 설계.
   - 실무 활용성 기대 : ESG 도메인에 맞는 계산식 도구 또는 법령 검색, 지배구조 벤치마킹 등 실무자에게 즉각적인 도움을 주는 PipeLine 구현.
 
+
+<a id="projectduration-techstack"></a>
+
+## ⏱️ Project Duration & 🔧 Tech Stack
+### ⏱️ Project Duration
+2026.04.06 ~ 2026.04.17
+
 ### 🔧 Tech Stack
 | Category | Tech Stack |
 | :--- | :--- |
+| **Language & Environment** | Python 3.11, uv (Package Manager) |
 | **Framework & Orchestration** | LangChain, LangGraph |
 | **LLM Model** | Upstage Solar-Pro |
+| **Data Processing & Validation** | Pandas, Pydantic |
 | **Database & Storage** | ChromaDB (Vector), SQLite (RDB), AWS S3 |
 | **Data Pipeline & NLP**| BM25 (Sparse Retrieval), DocTR (OCR), KoNLPy (형태소 분석) |
 | **Tools & API** | Tavily API (Web Search), OpenDartReader |
 | **Monitoring & UI** | LangSmith (Tracing), Gradio (Prototype UI) |
+| **Collaboration & DevOps** | Git, GitHub, Slack, Notion, Zoom |
+
 
 <a id="system-architecture"></a>
 
