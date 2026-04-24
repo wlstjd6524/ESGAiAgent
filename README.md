@@ -1,4 +1,4 @@
-# ESG Guide AI Agent
+# 🤖 ESG Guide AI Agent
 목적 : 복잡한 ESG 규제, 분석 및 계산 항목에 대한 처리에 어려움을 겪는 기업 실무자들을 위한 LangChain & RAG 파이프라인 기반 지능형 AI Agnet 설계
 
 ## 👨‍👧‍👦 Team 
